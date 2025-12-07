@@ -1,0 +1,25 @@
+
+Testing: "Web Design in Chennai"
+URL: https://nominatim.openstreetmap.org/search?q=Web%20Design%20in%20Chennai&format=json&addressdetails=1&limit=5
+Found 0 results.
+
+Testing: "IT Office in Chennai"
+URL: https://nominatim.openstreetmap.org/search?q=IT%20Office%20in%20Chennai&format=json&addressdetails=1&limit=5
+Found 0 results.
+
+Testing: "Software in Chennai"
+URL: https://nominatim.openstreetmap.org/search?q=Software%20in%20Chennai&format=json&addressdetails=1&limit=5
+Found 5 results.
+ - Software Technology Parks of India - STPI, Ward 180, Zone 13 Adyar, Chennai Corporation, Chennai, Tamil Nadu, India (commercial)
+ - Software Technology Park of India, OMR Service Road, CMWSSB Division 180, Ward 180, Zone 13 Adyar, Chennai Corporation, Chennai, Tamil Nadu, 600041, India (yes)
+ - Carizen Software (P) Ltd., S1, Second Floor, 287, 4th Main road, CMWSSB Division 185, Ward 185, Zone 14 Perungudi, Chennai Corporation, Sholinganallur, Chennai, Tamil Nadu, 600096, India (commercial)
+ - WizDemy Software Private Limited, 48th Street, CMWSSB Division 182, Ward 182, Zone 13 Adyar, Chennai Corporation, Chennai, Tamil Nadu, 600041, India (yes)
+ - Payilagam Software Training Institute, 7, Vijayanagar 1st Main Road, CMWSSB Division 178, Ward 178, Zone 13 Adyar, Chennai Corporation, Chennai, Tamil Nadu, 600042, India (educational_institution)
+
+Testing: "Plumbers in New York"
+URL: https://nominatim.openstreetmap.org/search?q=Plumbers%20in%20New%20York&format=json&addressdetails=1&limit=5
+Found 0 results.
+
+Testing: "Plumbing in New York"
+URL: https://nominatim.openstreetmap.org/search?q=Plumbing%20in%20New%20York&format=json&addressdetails=1&limit=5
+Found 0 results.
